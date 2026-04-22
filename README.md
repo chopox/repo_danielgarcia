@@ -1,2 +1,2 @@
 # repo_danielgarcia
-Ejercicio Básico de GIT en las Prácticas de Qualisophy
+Ejercicio Básico y Avanzado de GIT en las Prácticas de Qualisophy
